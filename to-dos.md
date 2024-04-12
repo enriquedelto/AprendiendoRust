@@ -1,0 +1,1 @@
+- Qué son todas las carpetas que se forman al hacer 'cargo new nombre_proyecto'
